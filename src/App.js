@@ -56,6 +56,13 @@ function App() {
     <>
       <Cursor/>
       <Cursor_2/>
+      <canvas className="plane-can" id="plane-canvas"></canvas>
+      <canvas className="main-can" id="main-canvas"></canvas>
+      <div className="background">
+        <div className="home-background">
+          <div className="bg-home-stars"></div>
+        </div>
+      </div>
       <Border/>
       <Home/>
       <About/>
