@@ -106,12 +106,12 @@ const Skill = () => {
                                 <span className="string_2">[ "HTML" , "CSS" , "JavaScript" , "Pug" , "SCSS" , "ReactJS" , "ThreeJS" , "TailwindCSS" ]</span>
                             </span>
                         </p>
-                        <p class="codeWrap" data-value="8">
+                        <p class="codeWrap" data-value="11">
                             <span class="code left">
                                 <span class="barackets_3"></span>
                             </span>
                         </p>
-                        <p className="codeWrap" data-value="11">
+                        <p className="codeWrap" data-value="12">
                             <span className="code flex left">
                                 <span className="static">static</span>
                                 <span className="className">user</span>
@@ -121,7 +121,7 @@ const Skill = () => {
                                 <span className="barackets"></span>
                             </span>
                         </p>
-                        <p className="codeWrap" data-value="12">
+                        <p className="codeWrap" data-value="13">
                             <span className="code left-2 flex">
                                 <span className='static'>return</span>
                                 <span className='methods'>back-end</span>
@@ -129,8 +129,8 @@ const Skill = () => {
                                 <span className="string_2">[ "PHP" , "MySQL" , "FireBase" ]</span>
                             </span>
                         </p>
-                        <p class="codeWrap" data-value="8"><span class="code left"><span class="barackets_3"></span></span></p>
-                        <p className="codeWrap" data-value="13">
+                        <p class="codeWrap" data-value="14"><span class="code left"><span class="barackets_3"></span></span></p>
+                        <p className="codeWrap" data-value="15">
                             <span className="code flex left">
                                 <span className="static">static</span>
                                 <span className="className">user</span>
@@ -140,7 +140,7 @@ const Skill = () => {
                                 <span className="barackets"></span>
                             </span>
                         </p>
-                        <p className="codeWrap" data-value="14">
+                        <p className="codeWrap" data-value="16">
                             <span className="code left-2 flex">
                                 <span className='static'>return</span>
                                 <span className='methods'>ios-developer</span>
@@ -148,8 +148,8 @@ const Skill = () => {
                                 <span className="string_2">[ "Swift" ]</span>
                             </span>
                         </p>
-                        <p class="codeWrap" data-value="8"><span class="code left"><span class="barackets_3"></span></span></p>
-                        <p className="codeWrap" data-value="15">
+                        <p class="codeWrap" data-value="17"><span class="code left"><span class="barackets_3"></span></span></p>
+                        <p className="codeWrap" data-value="18">
                             <span className="code flex left">
                                 <span className="static">static</span>
                                 <span className="className">user</span>
@@ -159,7 +159,7 @@ const Skill = () => {
                                 <span className="barackets"></span>
                             </span>
                         </p>
-                        <p className="codeWrap" data-value="16">
+                        <p className="codeWrap" data-value="19">
                             <span className="code left-2 flex">
                                 <span className='static'>return</span>
                                 <span className='methods'>design</span>
@@ -167,8 +167,8 @@ const Skill = () => {
                                 <span className="string_2">[ "Photoshop" , "Illustrator" , "AfterEffect" , "Premiere" , "XD" ]</span>
                             </span>
                         </p>
-                        <p class="codeWrap" data-value="8"><span class="code left"><span class="barackets_3"></span></span></p>
-                        <p class="codeWrap" data-value="8"><span class="code left_2"><span class="barackets_3"></span></span></p>
+                        <p class="codeWrap" data-value="20"><span class="code left"><span class="barackets_3"></span></span></p>
+                        <p class="codeWrap" data-value="21"><span class="code left_2"><span class="barackets_3"></span></span></p>
                     </div>
                     
                 </div>
