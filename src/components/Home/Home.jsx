@@ -7,13 +7,6 @@ const Home = () => {
     return (
         
         <section class="home" id="home">
-            <canvas className="plane-can" id="plane-canvas"></canvas>
-            <canvas className="main-can" id="main-canvas"></canvas>
-            <div className="background">
-                <div className="home-background">
-                <div className="bg-home-stars"></div>
-                </div>
-            </div>
             <div class="home__container container grid">
                 <div class="home__social">
                     <span class="home__social-follow">Follow Me</span>
